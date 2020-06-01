@@ -1,0 +1,8 @@
+com\mm\dao\po\TestPO.class
+com\mm\dao\annotation\LogAnnotation.class
+com\mm\dao\annotation\PersonNameTest.class
+com\mm\dao\util\PersonInfoUtil.class
+com\mm\dao\util\LogAnnotationAnalytic.class
+com\mm\dao\annotation\PersonSexTest$Sex.class
+com\mm\dao\po\Person.class
+com\mm\dao\annotation\PersonSexTest.class
